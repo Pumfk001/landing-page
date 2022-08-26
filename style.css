@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+}
+
 body {
     font-family: Roboto, Tahoma, sans-serif;
     }
@@ -16,6 +23,8 @@ body {
     padding: 0 30px;
         }
 
+
+/*   Navbar   */
 .header{
     display: flex;
     justify-content: space-between;
@@ -29,8 +38,6 @@ ul{
     display:flex;
     list-style: none;
     gap:30px;
-    margin: 0;
-    padding: 0;
 }
 
 a {
@@ -38,10 +45,9 @@ a {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
-    margin:0;
-    padding: 0;
 }
 
+/*   Title Section   */
 .header img {
     height: 75px;
     width: auto;
@@ -69,14 +75,12 @@ a {
 h1 {
     font-size: 60px;
     margin-bottom: 15px;
-    margin-top: 0;
     }
 
 p {
     font-size: large;
     font-weight: normal;
     margin-bottom: 10px;
-    margin-top: 0px;
     }
 
 button {
@@ -90,6 +94,7 @@ button {
     width: 150px;
 }
 
+/*   Top 4 Pubs   */
 h2 {
     display:flex;
     justify-content: center; 
@@ -145,6 +150,8 @@ h2 {
   font-size: 18px;
  }
 
+
+ /*   Quote   */
  .third-section-color {
     background-color: #E5E7EB;
     justify-content: center;
@@ -180,6 +187,7 @@ h2 {
           
      }
 
+   /*   Newsletter Sign Up   */
 .fourth-section {
     display:flex;
     align-items: center;
@@ -207,12 +215,14 @@ span {
     font-size: 10px;
 }
 
+
 .fourth-section .sign-up {
     border: 2px solid #F9FAF8;
 }
 
+ /*   Footer   */
 .footer{
-    background-color: #3b011e;
+    background-color: #75023b;
     color: #F9FAF8;
     text-align:center;
     padding: 15px 0;
