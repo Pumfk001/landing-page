@@ -13,5 +13,9 @@ Beer Logo: Logo by Checonx: https://www.seekpng.com/idown/u2t4t4y3u2u2u2y3_beer-
 Brighton Pier Image: Photo by Hert Niks: https://www.pexels.com/photo/photo-of-a-oier-3224151/
 
 Unbarred Logo: https://www.unbarredbrewery.com/
+The Roundhill Logo: https://www.theroundhill.co.uk/brighton/
+The Good Companions Logo: https://www.goodcompanions.pub/
+The Black Lion logo: https://www.blacklion.pub/
+
 
 
